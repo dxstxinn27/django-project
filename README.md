@@ -10,7 +10,7 @@ MARIA DIAZ
 
 ```
 git clone  https://github.com/dxstxinn27/django-project.git
-cd django-portfolio-simple
+cd django_portfolio
 python manage.py runserver
 ```
 
